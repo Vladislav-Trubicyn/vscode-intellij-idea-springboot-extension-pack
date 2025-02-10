@@ -1,0 +1,86 @@
+{
+    "name": "intellij-idea-springboot-extension-pack",
+    "displayName": "IntelliJ IDEA SpringBoot Extension Pack",
+    "description": "Experience IntelliJ IDEA -> VSCode",
+    "version": "0.1.0",
+    "icon": "/images/icon.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "publisher": "v3lt3r",
+    "keywords": [
+        "intellij idea",
+        "springboot",
+        "maven",
+        "gradle",
+        "java"
+    ],
+    "extensionPack": [
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-test",
+        "redhat.java",
+        "redhat.vscode-commons",
+        "dgileadi.java-decompiler",
+        "tintinweb.vscode-decompiler",
+        "vscjava.vscode-lombok",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-gradle",
+        "naco-siren.gradle-language",
+
+        "vmware.vscode-spring-boot",
+        "vscjava.vscode-spring-boot-dashboard",
+        "vscjava.vscode-spring-initializr",
+        "vmware.vscode-boot-dev-pack",
+        "Pivotal.vscode-boot-dev-pack",
+        "Pivotal.vscode-concourse",
+        "Pivotal.vscode-manifest-yaml",
+        "Pivotal.vscode-spring-boot",
+
+        "redhat.fabric8-analytics",
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml",
+        "richardwillis.vscode-gradle",
+        
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "Gruntfuggly.todo-tree",
+        "humao.rest-client",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",        
+
+        "SonarSource.sonarlint-vscode",                            
+        "yangbaopan.vscode-java-ibatisx",
+        "shengchen.vscode-checkstyle",
+
+        "rafaelrenanpacheco.darcula-theme",
+        "lijialin.idea-icons-to-maven-for-vscode",
+        "k--kato.intellij-idea-keybindings",
+        "xyz.local-history",
+        "arjun.swagger-viewer",
+        "dbcode.dbcode",
+        "tumido.cron-explained",
+        "anweber.reveal-button",
+        "asciidoctor.asciidoctor-vscode",
+        "asyncapi.asyncapi-preview",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-russian",
+        "qufiwefefwoyn.inline-sql-syntax",
+        "yzhang.markdown-all-in-one",
+        "mohamedibrahim.case-changing",
+        "IBM.output-colorizer",
+        "EditorConfig.EditorConfig",
+        "m4ns0ur.base64"
+        
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vladislav-Trubicyn/vscode_intellij_idea_spring_boot_extension_pack.git"
+    }
+}
